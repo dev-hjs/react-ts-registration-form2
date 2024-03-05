@@ -59,3 +59,4 @@ yarn add -D @types/node @types/react @types/react-dom autoprefixer eslint eslint
    @tailwind utilities;
 ```# -react-ts-registration-form2
 # -react-ts-registration-form2
+# -react-ts-registration-form2
